@@ -1,0 +1,771 @@
+[
+  {
+    "username": "fjzzq2002",
+    "real_name": "Miruu",
+    "reputation": 0,
+    "ranking": 616934,
+    "solved_easy": 111,
+    "solved_medium": 87,
+    "solved_hard": 29,
+    "total_easy": 113,
+    "total_medium": 88,
+    "total_hard": 33,
+    "beats_easy": 91.72,
+    "beats_medium": 83.25,
+    "beats_hard": 84.13,
+    "contest_rating": 3702.788,
+    "global_ranking": 1,
+    "total_participants": 818912,
+    "attended_contests": 26,
+    "badges": [
+      {
+        "name": "Guardian",
+        "icon": "N/A"
+      }
+    ],
+    "languages": {
+      "C++": 92,
+      "Java": 1,
+      "Python": 13,
+      "JavaScript": 3,
+      "Python3": 125,
+      "Rust": 2
+    },
+    "top_percentage": 84.13
+  },
+  {
+    "username": "neal_wu",
+    "real_name": "Neal Wu",
+    "reputation": 0,
+    "ranking": 535492,
+    "solved_easy": 60,
+    "solved_medium": 141,
+    "solved_hard": 52,
+    "total_easy": 60,
+    "total_medium": 142,
+    "total_hard": 53,
+    "beats_easy": 80.89,
+    "beats_medium": 90.0,
+    "beats_hard": 92.0,
+    "contest_rating": 3686.191,
+    "global_ranking": 2,
+    "total_participants": 818912,
+    "attended_contests": 51,
+    "badges": [
+      {
+        "name": "Guardian",
+        "icon": "N/A"
+      }
+    ],
+    "languages": {
+      "C++": 243,
+      "Python3": 14
+    },
+    "top_percentage": 92.0
+  },
+  {
+    "username": "Yawn_Sean",
+    "real_name": "Yawn_Sean",
+    "reputation": 851,
+    "ranking": 20480,
+    "solved_easy": 241,
+    "solved_medium": 599,
+    "solved_hard": 242,
+    "total_easy": 241,
+    "total_medium": 600,
+    "total_hard": 242,
+    "beats_easy": 98.54,
+    "beats_medium": 99.52,
+    "beats_hard": 99.68,
+    "contest_rating": 3644.841,
+    "global_ranking": 3,
+    "total_participants": 818912,
+    "attended_contests": 84,
+    "badges": [
+      {
+        "name": "Guardian",
+        "icon": "N/A"
+      },
+      {
+        "name": "500 Days Badge",
+        "icon": "N/A"
+      },
+      {
+        "name": "365 Days Badge",
+        "icon": "N/A"
+      },
+      {
+        "name": "100 Days Badge 2025",
+        "icon": "N/A"
+      },
+      {
+        "name": "50 Days Badge 2025",
+        "icon": "N/A"
+      },
+      {
+        "name": "Annual Badge 2024",
+        "icon": "N/A"
+      },
+      {
+        "name": "200 Days Badge 2024",
+        "icon": "N/A"
+      },
+      {
+        "name": "100 Days Badge 2024",
+        "icon": "N/A"
+      },
+      {
+        "name": "50 Days Badge 2024",
+        "icon": "N/A"
+      },
+      {
+        "name": "50 Days Badge 2023",
+        "icon": "N/A"
+      },
+      {
+        "name": "100 Days Badge 2023",
+        "icon": "N/A"
+      },
+      {
+        "name": "100 Days Badge 2022",
+        "icon": "N/A"
+      },
+      {
+        "name": "Apr LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Mar LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Feb LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jan LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Dec LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Nov LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Oct LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Sep LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Aug LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jul LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jun LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "May LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Apr LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Mar LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Feb LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jan LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jun LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Mar LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Feb LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jan LeetCoding Challenge",
+        "icon": "N/A"
+      }
+    ],
+    "languages": {
+      "C++": 4,
+      "Python3": 1081
+    },
+    "top_percentage": 99.68
+  },
+  {
+    "username": "ahmed007boss",
+    "real_name": "ahmed007boss",
+    "reputation": 0,
+    "ranking": 5000001,
+    "solved_easy": 0,
+    "solved_medium": 0,
+    "solved_hard": 0,
+    "total_easy": 0,
+    "total_medium": 0,
+    "total_hard": 0,
+    "beats_easy": null,
+    "beats_medium": null,
+    "beats_hard": null,
+    "contest_rating": null,
+    "global_ranking": null,
+    "total_participants": null,
+    "attended_contests": 0,
+    "badges": [],
+    "languages": {},
+    "top_percentage": null
+  },
+  {
+    "username": "liming-v",
+    "real_name": "liming-v",
+    "reputation": 0,
+    "ranking": 4053960,
+    "solved_easy": 4,
+    "solved_medium": 11,
+    "solved_hard": 2,
+    "total_easy": 4,
+    "total_medium": 11,
+    "total_hard": 2,
+    "beats_easy": null,
+    "beats_medium": 41.89,
+    "beats_hard": 20.54,
+    "contest_rating": null,
+    "global_ranking": null,
+    "total_participants": null,
+    "attended_contests": 0,
+    "badges": [],
+    "languages": {
+      "Java": 17
+    },
+    "top_percentage": 20.54
+  },
+  {
+    "username": "numb3r5",
+    "real_name": "Joshua Chen",
+    "reputation": 670,
+    "ranking": 1469,
+    "solved_easy": 549,
+    "solved_medium": 1113,
+    "solved_hard": 438,
+    "total_easy": 549,
+    "total_medium": 1121,
+    "total_hard": 449,
+    "beats_easy": 99.92,
+    "beats_medium": 99.96,
+    "beats_hard": 99.94,
+    "contest_rating": 3589.337,
+    "global_ranking": 6,
+    "total_participants": 818912,
+    "attended_contests": 100,
+    "badges": [
+      {
+        "name": "Guardian",
+        "icon": "N/A"
+      },
+      {
+        "name": "500 Days Badge",
+        "icon": "N/A"
+      },
+      {
+        "name": "365 Days Badge",
+        "icon": "N/A"
+      },
+      {
+        "name": "1000 Days Badge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Annual Badge 2025",
+        "icon": "N/A"
+      },
+      {
+        "name": "200 Days Badge 2025",
+        "icon": "N/A"
+      },
+      {
+        "name": "100 Days Badge 2025",
+        "icon": "N/A"
+      },
+      {
+        "name": "50 Days Badge 2025",
+        "icon": "N/A"
+      },
+      {
+        "name": "Annual Badge 2024",
+        "icon": "N/A"
+      },
+      {
+        "name": "200 Days Badge 2024",
+        "icon": "N/A"
+      },
+      {
+        "name": "100 Days Badge 2024",
+        "icon": "N/A"
+      },
+      {
+        "name": "50 Days Badge 2024",
+        "icon": "N/A"
+      },
+      {
+        "name": "Annual Badge 2023",
+        "icon": "N/A"
+      },
+      {
+        "name": "50 Days Badge 2023",
+        "icon": "N/A"
+      },
+      {
+        "name": "100 Days Badge 2023",
+        "icon": "N/A"
+      },
+      {
+        "name": "Annual Badge 2022",
+        "icon": "N/A"
+      },
+      {
+        "name": "Dec LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Nov LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Oct LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Sep LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Aug LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jul LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jun LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "May LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Apr LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Mar LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Feb LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jan LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Dec LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Nov LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Oct LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Sep LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Aug LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jul LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jun LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "May LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Apr LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Mar LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Feb LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jan LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Dec LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Nov LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Oct LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Sep LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Aug LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jul LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jun LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "May LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Apr LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Mar LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Feb LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jan LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Dec LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Nov LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Oct LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Sep LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Aug LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jul LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jun LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "May LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Apr LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Mar LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Feb LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jan LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Dec LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Nov LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Oct LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Sep LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Aug LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jul LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "Jun LeetCoding Challenge",
+        "icon": "N/A"
+      },
+      {
+        "name": "LeetCode 75",
+        "icon": "N/A"
+      },
+      {
+        "name": "Dynamic Programming II",
+        "icon": "N/A"
+      },
+      {
+        "name": "DS III",
+        "icon": "N/A"
+      },
+      {
+        "name": "Algorithm III",
+        "icon": "N/A"
+      },
+      {
+        "name": "Level 3",
+        "icon": "N/A"
+      },
+      {
+        "name": "Graph Theory II",
+        "icon": "N/A"
+      },
+      {
+        "name": "Binary Search III",
+        "icon": "N/A"
+      },
+      {
+        "name": "Level 1",
+        "icon": "N/A"
+      },
+      {
+        "name": "Level 2",
+        "icon": "N/A"
+      },
+      {
+        "name": "SQL I",
+        "icon": "N/A"
+      },
+      {
+        "name": "Binary Search II",
+        "icon": "N/A"
+      },
+      {
+        "name": "Binary Search I",
+        "icon": "N/A"
+      },
+      {
+        "name": "Programming Skills II",
+        "icon": "N/A"
+      },
+      {
+        "name": "Programming Skills I",
+        "icon": "N/A"
+      },
+      {
+        "name": "Graph Theory I",
+        "icon": "N/A"
+      },
+      {
+        "name": "Data Structure II",
+        "icon": "N/A"
+      },
+      {
+        "name": "Data Structure I",
+        "icon": "N/A"
+      },
+      {
+        "name": "Dynamic Programming I",
+        "icon": "N/A"
+      },
+      {
+        "name": "Algorithm II",
+        "icon": "N/A"
+      },
+      {
+        "name": "Algorithm I",
+        "icon": "N/A"
+      }
+    ],
+    "languages": {
+      "C++": 300,
+      "Java": 1,
+      "Python": 2,
+      "MySQL": 51,
+      "JavaScript": 18,
+      "Ruby": 7,
+      "Bash": 2,
+      "Python3": 1851
+    },
+    "top_percentage": 99.94
+  },
+  {
+    "username": "PurpleCrayon",
+    "real_name": "Rohin Garg",
+    "reputation": 16,
+    "ranking": 49804,
+    "solved_easy": 215,
+    "solved_medium": 416,
+    "solved_hard": 194,
+    "total_easy": 215,
+    "total_medium": 418,
+    "total_hard": 207,
+    "beats_easy": 97.99,
+    "beats_medium": 98.55,
+    "beats_hard": 99.42,
+    "contest_rating": 3506.396,
+    "global_ranking": 7,
+    "total_participants": 818912,
+    "attended_contests": 88,
+    "badges": [
+      {
+        "name": "Guardian",
+        "icon": "N/A"
+      }
+    ],
+    "languages": {
+      "C++": 748,
+      "Java": 87,
+      "Python": 1,
+      "Python3": 6
+    },
+    "top_percentage": 99.42
+  },
+  {
+    "username": "hankray",
+    "real_name": "hankray",
+    "reputation": 0,
+    "ranking": 5000001,
+    "solved_easy": 0,
+    "solved_medium": 0,
+    "solved_hard": 0,
+    "total_easy": 0,
+    "total_medium": 0,
+    "total_hard": 0,
+    "beats_easy": null,
+    "beats_medium": null,
+    "beats_hard": null,
+    "contest_rating": null,
+    "global_ranking": null,
+    "total_participants": null,
+    "attended_contests": 0,
+    "badges": [],
+    "languages": {},
+    "top_percentage": null
+  },
+  {
+    "username": "HazemAllaham",
+    "real_name": "Hazem Allaham",
+    "reputation": 0,
+    "ranking": 5000001,
+    "solved_easy": 4,
+    "solved_medium": 1,
+    "solved_hard": 0,
+    "total_easy": 7,
+    "total_medium": 2,
+    "total_hard": 1,
+    "beats_easy": null,
+    "beats_medium": null,
+    "beats_hard": null,
+    "contest_rating": null,
+    "global_ranking": null,
+    "total_participants": null,
+    "attended_contests": 0,
+    "badges": [],
+    "languages": {
+      "Python3": 5
+    },
+    "top_percentage": null
+  },
+  {
+    "username": "dnialh",
+    "real_name": "dnialh",
+    "reputation": 0,
+    "ranking": 590433,
+    "solved_easy": 62,
+    "solved_medium": 117,
+    "solved_hard": 56,
+    "total_easy": 62,
+    "total_medium": 119,
+    "total_hard": 59,
+    "beats_easy": 81.58,
+    "beats_medium": 87.58,
+    "beats_hard": 92.78,
+    "contest_rating": 3483.996,
+    "global_ranking": 10,
+    "total_participants": 818912,
+    "attended_contests": 58,
+    "badges": [
+      {
+        "name": "Guardian",
+        "icon": "N/A"
+      }
+    ],
+    "languages": {
+      "C++": 5,
+      "Python": 28,
+      "Python3": 205
+    },
+    "top_percentage": 92.78
+  }
+]
